@@ -1,0 +1,75 @@
+{
+  "_hostedLeagues": {
+    "QWP410": {
+      "id": "QWP410",
+      "hostId": "1180944141291634728",
+      "hostTag": "dxrrxry",
+      "format": "2v2",
+      "type": "Swift Game",
+      "perks": "Perks",
+      "region": "Asia",
+      "totalSpots": 4,
+      "players": [
+        "1180944141291634728"
+      ],
+      "status": "cancelled",
+      "guildId": "1476890438286966804",
+      "channelId": "1478757205699203082",
+      "messageId": "1481293343345348741",
+      "threadId": null,
+      "createdAt": 1773238253843
+    },
+    "G9K45T": {
+      "id": "G9K45T",
+      "hostId": "1242463735176626188",
+      "hostTag": "darkxmvsd",
+      "format": "4v4",
+      "type": "Swift Game",
+      "perks": "No Perks",
+      "region": "North America",
+      "totalSpots": 8,
+      "players": [
+        "1242463735176626188",
+        "1180944141291634728"
+      ],
+      "status": "open",
+      "guildId": "1476890438286966804",
+      "channelId": "1478757205699203082",
+      "messageId": "1481294092930646187",
+      "threadId": null,
+      "createdAt": 1773238432653
+    },
+    "SR2SN2": {
+      "id": "SR2SN2",
+      "hostId": "1180944141291634728",
+      "hostTag": "dxrrxry",
+      "format": "2v2",
+      "type": "Swift Game",
+      "perks": "Perks",
+      "region": "Asia",
+      "totalSpots": 4,
+      "players": [
+        "1180944141291634728",
+        "1242463735176626188"
+      ],
+      "status": "cancelled",
+      "guildId": "1476890438286966804",
+      "channelId": "1478757205699203082",
+      "messageId": "1481294900992409641",
+      "threadId": "1481294903345418443",
+      "createdAt": 1773238625307
+    }
+  },
+  "1180944141291634728": {
+    "xp": 390,
+    "level": 4
+  },
+  "1242463735176626188": {
+    "xp": 110,
+    "level": 2
+  },
+  "1131898458723323944": {
+    "xp": 10,
+    "level": 1
+  }
+}
